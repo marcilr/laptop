@@ -1,0 +1,47 @@
+links.txt
+Created Mon Jul 16 14:22:24 AKDT 2012
+Copyright (C) 2012 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Laptop related links.
+
+
+Links
+=====
+Ask HN: The best Linux laptop
+74 points by Nib 235 days ago | 80 comments
+Hacker News
+https://news.ycombinator.com/item?id=8673709
+
+Avadirect gaming laptops <===
+P750DM-G $1575.23 looks nice.
+http://www.avadirect.com/custom-gaming-laptops
+
+Ask HN: Best linux laptop right now?
+Solid references to:
+[1] http://shop.lenovo.com/us/en/laptops/thinkpad/x-series/x1-carbon-4
+[2] http://www.dell.com/us/business/p/precision-m5510-workstation/pd
+https://hn.algolia.com/?query=best%20linux%20laptop&sort=byPopularity&prefix&page=0&dateRange=all&type=story
+
+How to Choose a Linux Laptop
+By Katherine Noyes, PCWorld - Nov 18, 2010 2:00 pm
+http://www.pcworld.com/businesscenter/article/211113/how_to_choose_a_linux_laptop.html
+
+Lenovo laptops
+Thinkpads get top marks for linux compatibility
+http://shop.lenovo.com/us/en/laptops/?menu-id=laptops#facet-1=7
+
+Linux for personal systems
+https://support.lenovo.com/us/en/documents/pd031426
+
+Sager notebook computers  <===
+Very nice, up to 64GB RAM, 1TB SSD, etc.
+http://www.sagernotebook.com/Gaming-Special/?gclid=COXe6_uI-sgCFUprfgodzAAHyw
+
+System76
+Nice looking Ubuntu laptops
+https://system76.com/
+
+The Novice Guide To Buying A Linux Laptop
+by Vivek Gite on May 21, 2010
+http://www.cyberciti.biz/tips/linux-laptop.html
