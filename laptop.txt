@@ -1,0 +1,93 @@
+laptop.txt
+Created Wed Nov 18 09:07:06 AKST 2009
+by Raymond E. Marcil
+
+
+Laptop
+
+
+I've been thinkings about getting a laptop for a while.
+
+
+Make/model?
+
+Required specs for my laptop
+============================
+o quad-core or better
+o 8GB ram or better
+o 8x DVD RW or better
+o 15" display
+o SSD drive - at least 120GB
+o ExpressCard slot for 3rd video?
+o 802.11 a/b/g/Draft-N (broadcom or intel good)
+
+
+
+UAA ITS WebApps laptop
+======================
+o quad-core or better
+o 8GB ram or better
+o 8x DVD RW or better
+o 15" display
+o SSD drive - at least 120GB
+o ExpressCard slot for 3rd video?
+o 802.11 a/b/g/Draft-N
+
+
+Acer Aspire AS5738
+==================
+o Intel Core 2 Duo: T6600 2.20 GHz
+o 15.6" display
+o 8x DVD RW
+o 802.11 a/b/g/Draft-N
+o 4.5 hour battery
+o 6.16lbs
+o 4GB RAM <== Not enough
+Item # 469994
+price: $599.00 (costco.com Nov 18, 2009)
+
+
+Links
+=====
+Linux on Laptops
+http://linux-on-laptops.com/
+
+Ask Slashdot: GNU/Linux Laptops?
+http://linux.slashdot.org/story/11/10/24/221245/ask-slashdot-gnulinux-laptops
+
+system76 linux laptops
+http://www.system76.com/
+
+ExpressCard
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/ExpressCard
+
+What Is an ExpressCard?
+http://support.dell.com/support/topics/global.aspx/support/kcs/document?c=us&l=en&s=gen&docid=DSN_0CB32F95973E1655E0401E0A54174AD1&isLegacy=true
+
+720P/1080i HD Video Converter for Laptop, 
+HDMI Input Video Capture Express Card
+http://www.alibaba.com/product-gs/440695956/720P_1080i_HD_Video_Converter_for.html
+
+Acer Aspire AS5738 Laptop
+$599.00
+http://www.costco.com/Browse/Product.aspx?Prodid=11498905&search=acer&Mo=7&cm_re=1_en-_-Top_Left_Nav-_-Top_search&lang=en-US&Nr=P_CatalogName:BC&Sp=S&N=5000043&whse=BC&Dx=mode+matchallpartial&Ntk=Text_Search&Dr=P_CatalogName:BC&Ne=4000000&D=acer&Ntt=acer&No=5&Ntx=mode+matchallpartial&Nty=1&topnav=&s=1
+
+Acer Aspire AS5738-6444
+Good reviews
+http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=5265886&CatId=4938
+
+HP Pavilion dv9200 release 16Jan07 
+This month seems to come with tons of new Vista compatible laptops 
+from all producers. Now, HP released a new Paviliion laptop, the 
+dv9200, which is a slim 17\u2033 laptop with great performances. It 
+has a 2Ghz Intel Core 2 Duo, 1Gb of RAM expandable to 2GB and a 120GB
+ hard drive. Also, a DVD super multi burner is included, along with a 
+HDMI port and preinstalled Windows Vista Home Premium. The HP Pavilion 
+dv9200 will be available for $1,394.
+Looks pretty...
+http://dodevice.com/
+
+Dell's Slick New Netbooks are Available With Ubuntu
+Mini 10v netbook
+http://ostatic.com/blog/dells-slick-new-netbooks-are-available-with-ubuntu
