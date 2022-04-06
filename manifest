@@ -1,0 +1,38 @@
+# manifest
+# Created Tue 05 Apr 2022 08:12:28 PM AKDT
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# ================================================================== #
+# Manifest file for use by resync script
+#
+# Python script to automate the check of github hierarchical 
+# directories.  The github directories are named with 
+# dir-subdir-subsubdir format such that tracking the hierarchical 
+# directories is easily trackable.
+#
+# The base directory being checked out to must have a manifest file 
+# with src/dest mapping or a ~/.manifest file must exist with the 
+# src/dest mapping.
+#
+# A typically manifest file would contain:
+#
+#
+# ------------------------------------------------------------------
+# Source                                             Target
+# ------------------------------------------------------------------
+# https://github.com/marcilr/git-github.git          github
+# https://github.com/marcilr/git-github-syntax.git   github/syntax
+#
+# NOTE: The target value can be a relative or fully qualified path.
+# ================================================================== #
+
+
+
+# ------------------------------------------------------------------
+# Source                                                  Target
+# ------------------------------------------------------------------
+#ssh://git@github.com/marcilr/acer.git                     acer
+#ssh://git@github.com/marcilr/belkin.git                   belkin
+#ssh://git@github.com/marcilr/dell.git                     dell
+#ssh://git@github.com/marcilr/emperorlinux.git             emperorlinux
+#ssh://git@github.com/marcilr/macbookpro.git               macbook-pro
