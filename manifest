@@ -31,7 +31,7 @@
 # ------------------------------------------------------------------
 # Source                                                  Target
 # ------------------------------------------------------------------
-#ssh://git@github.com/marcilr/acer.git                     acer
+ssh://git@github.com/marcilr/asus.git                     asus
 #ssh://git@github.com/marcilr/belkin.git                   belkin
 #ssh://git@github.com/marcilr/dell.git                     dell
 #ssh://git@github.com/marcilr/emperorlinux.git             emperorlinux
