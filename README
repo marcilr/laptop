@@ -8,8 +8,9 @@ Filelist
 00ARCHIVES/
   Archives
 
-acer/
-  Acer
+asus/
+ Asus git repository:
+ ssh://git@github.com/marcilr/asus.git   asus
 
 belkin/
   Belkin Docks & Stands
