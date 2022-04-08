@@ -1,0 +1,8 @@
+#.gitignore
+# Created Fri 08 Apr 2022 09:40:35 AM AKDT
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore
+#
+.gitignore
+asus/
